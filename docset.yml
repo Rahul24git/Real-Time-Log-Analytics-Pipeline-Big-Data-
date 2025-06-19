@@ -1,0 +1,11 @@
+project: 'ES Hadoop'
+cross_links:
+  - docs-content
+  - elasticsearch
+toc:
+  - toc: reference
+  - toc: release-notes
+subs:
+  es:   "Elasticsearch"
+  esh:   "ES-Hadoop"
+  esh-full: "Elasticsearch for Apache Hadoop"
